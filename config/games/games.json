@@ -1,0 +1,37 @@
+{
+  "default_theme": {
+    "gradient": "from-red-900 via-red-700 to-black",
+    "title_color": "text-red-600",
+    "button_color": "bg-red-500"
+  },
+  "games": {
+    "sprunkr": {
+      "id": "sprunkr",
+      "name": "Sprunki Sprunkr",
+      "slug": "sprunki-sprunkr",
+      "description": "Original horror music game",
+      "gradient": "from-red-900 via-red-700 to-black",
+      "iframe_url": "https://wowtbc.net/sprunkin/phase5-original/index.html",
+      "thumbnail": "/static/images/games/sprunkr.jpg",
+      "meta": {
+        "title": "Play Sprunki Sprunkr Mod on Sprunkr Online",
+        "description": "Sprunkr, A New Sprunki Horror Mod Online",
+        "keywords": "Sprunkr,horror music game,online music creation"
+      }
+    },
+    "stimulationclicker": {
+      "id": "stimulationclicker",
+      "name": "Stimulation Clicker",
+      "slug": "stimulation-clicker",
+      "description": "A fast-paced clicker game where players click to amass stimulation points",
+      "gradient": "from-blue-400 via-purple-500 to-pink-500",
+      "iframe_url": "https://neal.fun/stimulation-clicker/",
+      "thumbnail": "/static/images/games/stimulation-clicker-banner1.jpg",
+      "meta": {
+        "title": "Stimulation Clicker Game | Play on Stimulation Clicker CC",
+        "description": "Stimulation Clicker, developed by Neal Agarwal, is a fast-paced clicker game. Players click a button to amass 'stimulation' points. It's simple, addictive, perfect for those seeking quick, fun gameplay.",
+        "keywords": "stimulationclicker,clicker game,stimulation game,simulation,simulator,auto clicker"
+      }
+    }
+  }
+}

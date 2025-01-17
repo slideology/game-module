@@ -1,0 +1,18 @@
+{
+  "general": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions about our games",
+    "faqs": [
+      {
+        "id": "what-is",
+        "question": "What is this game?",
+        "answer": "This is an online music creation game where you can create unique compositions."
+      },
+      {
+        "id": "how-to-play",
+        "question": "How do I play?",
+        "answer": "Click on characters to add them to your composition. Each character adds a unique sound."
+      }
+    ]
+  }
+}

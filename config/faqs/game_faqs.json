@@ -1,0 +1,49 @@
+{
+  "sprunkr": {
+    "title": "Sprunki Sprunkr FAQ",
+    "description": "Everything you need to know about Sprunki Sprunkr",
+    "faqs": [
+      {
+        "id": "sprunkr-specific-1",
+        "question": "What makes Sprunki Sprunkr special?",
+        "answer": "Sprunki Sprunkr features unique horror-themed sound effects and visual elements."
+      },
+      {
+        "id": "sprunkr-specific-2",
+        "question": "Can I save my creation?",
+        "answer": "Yes, you can record and share your horror music creation with others."
+      }
+    ]
+  },
+  "stimulationclicker": {
+    "title": "Stimulation Clicker FAQ",
+    "description": "Everything you need to know about playing Stimulation Clicker",
+    "faqs": [
+      {
+        "id": "what-is",
+        "question": "What is Stimulation Clicker game?",
+        "answer": "Stimulation Clicker is a fast-paced clicker game where players click a button to accumulate 'stimulation' points, which can be used to automate point collection and unlock upgrades and achievements. It overloads players with visual and auditory stimuli to mirror the chaotic nature of the modern internet."
+      },
+      {
+        "id": "creator",
+        "question": "Who made Stimulation Clicker?",
+        "answer": "Stimulation Clicker is created by Neal Agarwal, known for creative web games like Infinite Craft, The Password Game, Spend Bill Gate's Money. His work combines art, programming, and humor for unique, engaging experiences involving playful concept explorations, data visualization, and interactive storytelling."
+      },
+      {
+        "id": "gameplay",
+        "question": "What is the core gameplay of Stimulation Clicker?",
+        "answer": "The core gameplay involves clicking the 'Click Me' button to accumulate 'stimulation' points. Points can be spent to automate stimulation collection, enhance gameplay speed, and unlock achievements. As the game progresses, features like automatic stimulation generation increase complexity."
+      },
+      {
+        "id": "features",
+        "question": "What are the features and overstimulation elements in Stimulation Clicker?",
+        "answer": "The game bombards players with a mix of visual and auditory stimuli including bouncing DVD Logos, a hydraulic press simulation, subway surfer wormhole, mukbang videos, slime ASMR, lofi beats, true crime podcast parodies, Duolingo notifications, red notification bubbles, cryptocurrency and stock market trading, mimicking the overstimulation of online life."
+      },
+      {
+        "id": "ending",
+        "question": "What happens at the end of Stimulation Clicker?",
+        "answer": "After achieving a high level of stimulation clicker, players can purchase the final upgrade 'Go to the Ocean', which leads to a calming video of ocean waves, peaceful background music and credits, contrasting with the gameplay's overstimulation."
+      }
+    ]
+  }
+}

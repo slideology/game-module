@@ -1,0 +1,71 @@
+{
+  "featured": [
+    {
+      "id": "game1",
+      "title": "超级跑酷",
+      "description": "一款充满挑战的跑酷游戏，穿越各种障碍，收集金币和宝物",
+      "imageUrl": "https://picsum.photos/800/600?random=1",
+      "category": "动作冒险",
+      "rating": 4.8,
+      "playCount": 158947
+    },
+    {
+      "id": "game2",
+      "title": "魔法消除",
+      "description": "创新的三消玩法，配合华丽的魔法特效，带来前所未有的游戏体验",
+      "imageUrl": "https://picsum.photos/800/600?random=2",
+      "category": "休闲益智",
+      "rating": 4.6,
+      "playCount": 245681
+    },
+    {
+      "id": "game3",
+      "title": "太空战机",
+      "description": "经典射击游戏，驾驶战机消灭外星入侵者，保卫地球",
+      "imageUrl": "https://picsum.photos/800/600?random=3",
+      "category": "射击",
+      "rating": 4.7,
+      "playCount": 189632
+    }
+  ],
+  "trending": [
+    {
+      "id": "game4",
+      "title": "方块消除",
+      "description": "创新的方块消除玩法，简单易上手",
+      "imageUrl": "https://picsum.photos/800/600?random=4",
+      "category": "休闲",
+      "rating": 4.5,
+      "playCount": 125478
+    },
+    {
+      "id": "game5",
+      "title": "赛车竞速",
+      "description": "真实的赛车体验，多种赛道和赛车可选",
+      "imageUrl": "https://picsum.photos/800/600?random=5",
+      "category": "竞速",
+      "rating": 4.9,
+      "playCount": 198745
+    }
+  ],
+  "new": [
+    {
+      "id": "game6",
+      "title": "农场物语",
+      "description": "轻松愉快的农场经营游戏，种植收获，饲养动物",
+      "imageUrl": "https://picsum.photos/800/600?random=6",
+      "category": "模拟经营",
+      "rating": 4.4,
+      "playCount": 87456
+    },
+    {
+      "id": "game7",
+      "title": "魔法学院",
+      "description": "成为魔法学院的学生，学习魔法，解开谜题",
+      "imageUrl": "https://picsum.photos/800/600?random=7",
+      "category": "角色扮演",
+      "rating": 4.7,
+      "playCount": 156789
+    }
+  ]
+}

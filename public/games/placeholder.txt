@@ -1,0 +1,3 @@
+Please add game thumbnail images here:
+- super-adventure.jpg
+- puzzle-master.jpg
