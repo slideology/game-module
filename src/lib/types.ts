@@ -2,8 +2,9 @@ export type Game = {
   id: string
   title: string
   description: string
+  longDescription?: string
   imageUrl: string
-  category: string
+  categories: string[]
   rating: number
   playCount: number
 }
