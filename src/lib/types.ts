@@ -4,7 +4,7 @@ export type Game = {
   description: string
   longDescription?: string
   imageUrl: string
-  categories: string[]
+  category: string
   rating: number
   playCount: number
 }

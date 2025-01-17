@@ -15,17 +15,14 @@ export function GameAbout({ game }: { game: Game }) {
           <dl className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2">
             <div>
               <dt className="text-base font-semibold leading-7 text-gray-900">
-                Categories
+                Category
               </dt>
-              <dd className="mt-1 flex flex-wrap gap-2">
-                {game.categories.map((category) => (
-                  <span
-                    key={category}
-                    className="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-sm font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10"
-                  >
-                    {category}
-                  </span>
-                ))}
+              <dd className="mt-1">
+                <span
+                  className="inline-flex items-center rounded-md bg-blue-50 px-2 py-1 text-sm font-medium text-blue-700 ring-1 ring-inset ring-blue-700/10"
+                >
+                  {game.category}
+                </span>
               </dd>
             </div>
             <div>
